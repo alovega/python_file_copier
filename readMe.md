@@ -20,6 +20,8 @@ This script copies files from a source folder to a destination folder based on a
 
 3. Run the following command:
 
+> python file_copy.py files_to_copy.csv path/to/source/folder path/to/destination/folder
+
 Replace `csv_file` with the name of your CSV file, `source_folder` with the path to the source folder containing the files to copy, and `destination_folder` with the path to the destination folder where the files should be copied to.
 
 For example:
